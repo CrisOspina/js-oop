@@ -1,6 +1,6 @@
 ### JS - OOP
 
-- App de tareas utilizando javascript orientado a objetos y bootstrap para la interfaz
+- App de tareas utilizando -> javascript orientado a objetos y bootstrap.
 
 [Ver aplicación](https://js-oop.crisospina523.now.sh/)
 
